@@ -27,3 +27,9 @@ margin: auto;
 border: 1px solid #000;
 text-align: center;
 }
+
+#logo {
+width: 100%;
+max-width: 200px;
+margin: auto;
+}
